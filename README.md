@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Thankgod Ebute 👋
 
-<!--
-**ebuteboy/ebuteboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology Enthusiast | Open Source | Business & Technology
 
-Here are some ideas to get you started:
+I'm interested in technology, open-source projects, and practical software
+solutions that solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy discovering useful projects, connecting with developers, and
+collaborating with teams to contribute to meaningful open-source work.
+
+---
+
+## 🔎 Areas of Interest
+
+- Open Source
+- Software Development
+- Python
+- Business Technology
+- Data & Automation
+- Financial Technology
+- Developer Tools
+
+---
+
+## 🤝 Open Source
+
+I'm actively exploring open-source projects and opportunities to collaborate
+with developers and project teams.
+
+I'm particularly interested in discovering issues where contributors can
+work together to deliver practical solutions.
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+- Python
+- Git & GitHub
+- SQL
+- Data Analysis
+- Automation
+
+---
+
+## 🎯 Current Focus
+
+- Discovering open-source opportunities
+- Building my understanding of software projects
+- Connecting developers with meaningful contribution opportunities
+- Learning GitHub collaboration workflows
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ebuteboy
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Always learning. Always building. Always looking for meaningful
+opportunities to collaborate.
